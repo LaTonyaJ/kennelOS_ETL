@@ -1,0 +1,45 @@
+pet_id,pet_name,activity_type,duration_minutes,timestamp,staff_id,notes,date,hour,day_of_week
+P001,Buddy,walk,30,2025-10-16 08:00:00+00:00,S001,Energetic walk in the main yard,2025-10-16,8,Thursday
+P002,Luna,feeding,15,2025-10-16 07:30:00+00:00,S002,Regular morning meal,2025-10-16,7,Thursday
+P003,Max,playtime,45,2025-10-16 09:15:00+00:00,S001,Interactive toy session,2025-10-16,9,Thursday
+P001,Buddy,grooming,25,2025-10-16 10:00:00+00:00,S003,Bath and brush,2025-10-16,10,Thursday
+P004,Bella,medical,20,2025-10-16 09:00:00+00:00,S007,Vaccination and health check,2025-10-16,9,Thursday
+P005,Charlie,training,40,2025-10-16 10:30:00+00:00,S008,Basic obedience training session,2025-10-16,10,Thursday
+P006,Daisy,feeding,12,2025-10-16 07:45:00+00:00,S002,Special diet for senior dog,2025-10-16,7,Thursday
+P007,Rocky,walk,25,2025-10-16 08:30:00+00:00,S001,Short walk due to injury recovery,2025-10-16,8,Thursday
+P008,Mia,playtime,35,2025-10-16 11:00:00+00:00,S004,Socialization with other cats,2025-10-16,11,Thursday
+P009,Cooper,grooming,45,2025-10-16 14:00:00+00:00,S003,Full grooming for long-haired breed,2025-10-16,14,Thursday
+P010,Zoe,medical,30,2025-10-16 15:30:00+00:00,S007,Post-surgery check and medication,2025-10-16,15,Thursday
+P002,Luna,walk,35,2025-10-16 16:00:00+00:00,S005,Evening exercise session,2025-10-16,16,Thursday
+P001,Buddy,feeding,10,2025-10-16 17:00:00+00:00,S006,Evening meal,2025-10-16,17,Thursday
+P003,Max,training,30,2025-10-16 18:00:00+00:00,S008,Advanced agility training,2025-10-16,18,Thursday
+P004,Bella,playtime,20,2025-10-16 19:00:00+00:00,S009,Gentle play due to recent surgery,2025-10-16,19,Thursday
+P005,Charlie,walk,40,2025-10-15 08:15:00+00:00,S001,Morning exercise with high energy,2025-10-15,8,Wednesday
+P006,Daisy,medical,25,2025-10-15 09:30:00+00:00,S007,Arthritis medication and mobility check,2025-10-15,9,Wednesday
+P007,Rocky,feeding,15,2025-10-15 07:30:00+00:00,S002,High-protein diet for recovery,2025-10-15,7,Wednesday
+P008,Mia,grooming,30,2025-10-15 11:00:00+00:00,S003,Regular brushing and nail trim,2025-10-15,11,Wednesday
+P009,Cooper,training,35,2025-10-15 13:00:00+00:00,S008,Leash training and socialization,2025-10-15,13,Wednesday
+P010,Zoe,playtime,25,2025-10-15 15:00:00+00:00,S004,Gentle indoor activities,2025-10-15,15,Wednesday
+P011,Oscar,walk,50,2025-10-15 08:00:00+00:00,S005,Long walk for high-energy breed,2025-10-15,8,Wednesday
+P012,Ruby,feeding,20,2025-10-15 07:45:00+00:00,S002,Slow feeding bowl for fast eater,2025-10-15,7,Wednesday
+P013,Finn,medical,40,2025-10-15 10:00:00+00:00,S007,Dental cleaning and examination,2025-10-15,10,Wednesday
+P014,Penny,grooming,35,2025-10-15 14:00:00+00:00,S003,Full wash and dry for adoption event,2025-10-15,14,Wednesday
+P015,Atlas,training,45,2025-10-15 16:00:00+00:00,S008,Behavioral modification session,2025-10-15,16,Wednesday
+P001,Buddy,playtime,30,2025-10-14 10:00:00+00:00,S001,Interactive puzzle toys,2025-10-14,10,Tuesday
+P002,Luna,training,25,2025-10-14 11:30:00+00:00,S008,Recall training in enclosed area,2025-10-14,11,Tuesday
+P003,Max,medical,15,2025-10-14 09:00:00+00:00,S007,Routine health check and weight monitoring,2025-10-14,9,Tuesday
+P004,Bella,walk,20,2025-10-14 08:30:00+00:00,S005,Gentle walk post-surgery,2025-10-14,8,Tuesday
+P005,Charlie,grooming,40,2025-10-14 13:00:00+00:00,S003,De-shedding treatment,2025-10-14,13,Tuesday
+P006,Daisy,playtime,15,2025-10-14 14:30:00+00:00,S009,Low-impact senior dog activities,2025-10-14,14,Tuesday
+P007,Rocky,training,30,2025-10-14 15:00:00+00:00,S008,Rehabilitation exercises,2025-10-14,15,Tuesday
+P008,Mia,feeding,18,2025-10-14 07:30:00+00:00,S002,Wet food for hydration,2025-10-14,7,Tuesday
+P009,Cooper,walk,35,2025-10-14 16:00:00+00:00,S006,Evening walk with leash training,2025-10-14,16,Tuesday
+P010,Zoe,medical,35,2025-10-14 10:30:00+00:00,S007,Physical therapy session,2025-10-14,10,Tuesday
+P011,Oscar,playtime,40,2025-10-13 11:00:00+00:00,S004,High-energy play with other dogs,2025-10-13,11,Monday
+P012,Ruby,grooming,25,2025-10-13 13:30:00+00:00,S003,Brushing and ear cleaning,2025-10-13,13,Monday
+P013,Finn,walk,30,2025-10-13 08:15:00+00:00,S001,Morning constitutional,2025-10-13,8,Monday
+P014,Penny,training,35,2025-10-13 14:00:00+00:00,S008,House training reinforcement,2025-10-13,14,Monday
+P015,Atlas,feeding,22,2025-10-13 07:45:00+00:00,S002,Special diet for large breed,2025-10-13,7,Monday
+P016,Sage,medical,45,2025-10-13 09:30:00+00:00,S007,Spay surgery follow-up,2025-10-13,9,Monday
+P017,Bruno,playtime,50,2025-10-13 15:30:00+00:00,S009,Extended play session for young dog,2025-10-13,15,Monday
+P018,Stella,grooming,30,2025-10-13 16:30:00+00:00,S003,Pre-adoption beauty treatment,2025-10-13,16,Monday

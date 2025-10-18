@@ -1,0 +1,98 @@
+KennelOS Analytics - Data Quality Report
+==================================================
+Generated: 2025-10-18 03:54:15
+
+PET_ACTIVITIES QUALITY ASSESSMENT
+--------------------------------
+Total Records: 44
+Total Columns: 10
+
+No missing values detected
+
+Duplicate Records: 0
+
+Data Types:
+  pet_id: object
+  pet_name: object
+  activity_type: object
+  duration_minutes: int64
+  timestamp: datetime64[ns, UTC]
+  staff_id: object
+  notes: object
+  date: object
+  hour: int32
+  day_of_week: object
+
+==================================================
+
+ENVIRONMENT QUALITY ASSESSMENT
+-----------------------------
+Total Records: 175
+Total Columns: 10
+
+No missing values detected
+
+Duplicate Records: 0
+
+Data Types:
+  timestamp: datetime64[ns, UTC]
+  temperature_f: float64
+  humidity_percent: float64
+  noise_level_db: float64
+  kennel_section: object
+  date: object
+  hour: int32
+  temp_comfort: object
+  humidity_comfort: object
+  noise_comfort: object
+
+==================================================
+
+STAFF_LOGS QUALITY ASSESSMENT
+----------------------------
+Total Records: 59
+Total Columns: 10
+
+No missing values detected
+
+Duplicate Records: 0
+
+Data Types:
+  staff_id: object
+  staff_name: object
+  shift_start: datetime64[ns, UTC]
+  shift_end: datetime64[ns, UTC]
+  section_assigned: object
+  tasks_completed: int64
+  notes: object
+  shift_duration_hours: float64
+  shift_type: object
+  tasks_per_hour: float64
+
+==================================================
+
+DAILY_SUMMARY QUALITY ASSESSMENT
+-------------------------------
+Total Records: 5
+Total Columns: 9
+
+Missing Values:
+  avg_temperature: 1 (20.0%)
+  avg_humidity: 1 (20.0%)
+  avg_noise: 1 (20.0%)
+
+Duplicate Records: 0
+
+Data Types:
+  date: object
+  total_activities: int64
+  total_activity_minutes: int64
+  unique_pets: int64
+  avg_temperature: float64
+  avg_humidity: float64
+  avg_noise: float64
+  staff_shifts: int64
+  total_tasks: int64
+
+==================================================
+

@@ -1,0 +1,36 @@
+KennelOS Analytics - ETL Summary Report
+==================================================
+Generated: 2025-10-18 03:54:15
+
+PET_ACTIVITIES
+--------------
+Total Records: 44
+Columns: pet_id, pet_name, activity_type, duration_minutes, timestamp, staff_id, notes, date, hour, day_of_week
+Unique Pets: 18
+Activity Types: walk, feeding, playtime, grooming, medical, training
+Total Activity Time: 1317 minutes
+
+ENVIRONMENT
+-----------
+Total Records: 175
+Columns: timestamp, temperature_f, humidity_percent, noise_level_db, kennel_section, date, hour, temp_comfort, humidity_comfort, noise_comfort
+Temperature Range: 62.8°F - 85.0°F
+Humidity Range: 44.8% - 83.1%
+Noise Range: 9.7dB - 49.2dB
+
+STAFF_LOGS
+----------
+Total Records: 59
+Columns: staff_id, staff_name, shift_start, shift_end, section_assigned, tasks_completed, notes, shift_duration_hours, shift_type, tasks_per_hour
+Total Staff: 14
+Total Tasks Completed: 535
+Average Tasks per Hour: 1.14
+
+DAILY_SUMMARY
+-------------
+Total Records: 5
+Columns: date, total_activities, total_activity_minutes, unique_pets, avg_temperature, avg_humidity, avg_noise, staff_shifts, total_tasks
+Date Range: 2025-10-12 to 2025-10-16
+Total Activities Across All Days: 44
+Total Unique Pets: 39
+

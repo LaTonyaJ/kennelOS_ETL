@@ -1,0 +1,57 @@
+[
+  {
+    "date": "2025-10-12",
+    "total_activities": 0,
+    "total_activity_minutes": 0,
+    "unique_pets": 0,
+    "avg_temperature": NaN,
+    "avg_humidity": NaN,
+    "avg_noise": NaN,
+    "staff_shifts": 10,
+    "total_tasks": 90
+  },
+  {
+    "date": "2025-10-13",
+    "total_activities": 8,
+    "total_activity_minutes": 277,
+    "unique_pets": 8,
+    "avg_temperature": 73.67407407407407,
+    "avg_humidity": 77.95185185185184,
+    "avg_noise": 28.84444444444445,
+    "staff_shifts": 14,
+    "total_tasks": 136
+  },
+  {
+    "date": "2025-10-14",
+    "total_activities": 10,
+    "total_activity_minutes": 263,
+    "unique_pets": 10,
+    "avg_temperature": 75.28076923076922,
+    "avg_humidity": 64.71538461538462,
+    "avg_noise": 32.776923076923076,
+    "staff_shifts": 13,
+    "total_tasks": 104
+  },
+  {
+    "date": "2025-10-15",
+    "total_activities": 11,
+    "total_activity_minutes": 360,
+    "unique_pets": 11,
+    "avg_temperature": 77.35,
+    "avg_humidity": 57.806000000000004,
+    "avg_noise": 35.466,
+    "staff_shifts": 12,
+    "total_tasks": 122
+  },
+  {
+    "date": "2025-10-16",
+    "total_activities": 15,
+    "total_activity_minutes": 417,
+    "unique_pets": 10,
+    "avg_temperature": 78.51388888888889,
+    "avg_humidity": 51.65138888888889,
+    "avg_noise": 40.63333333333334,
+    "staff_shifts": 10,
+    "total_tasks": 83
+  }
+]
